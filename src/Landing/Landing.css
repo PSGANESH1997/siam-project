@@ -1,0 +1,98 @@
+.landing-pgn {
+    border-style: none;
+    height: auto;
+    max-width: 100%;
+    transform: translateX(-4%);
+    vertical-align: middle;
+    display: inline-block;
+    height: auto;
+    max-width: 100%;
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+    box-sizing: border-box;
+    padding: 0px;
+}
+
+.content--1 {
+    color: #333333;
+    font-family: "Prompt";
+    font-size: 40px;
+    font-weight: 800;
+    font-style: normal;
+    line-height: 50px;
+    padding: 0;
+    margin: 0;
+}
+
+.content--2 {
+    margin: 0px 0px 10px 0px;
+    padding: 0px 0px 0px 25px;
+    transition: background .3s,border .3s,border-radius .3s,box-shadow .3s,transform var(--e-transform-transition-duration,.4s);
+}
+
+.box-content-1 {
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s, transform var(--e-transform-transition-duration, .4s);
+    vertical-align: middle;
+    display: inline-block;
+    width: 80%;
+    height: auto;
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+}
+
+.box-content-2 {
+    text-align: center;
+    padding: 0% 0% 0% 0%;
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s, transform var(--e-transform-transition-duration, .4s);
+    width: 39%;
+    vertical-align: middle;
+    display: inline-block;
+    filter: grayscale(100%);
+    height: auto;
+    max-width: 100%;
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+}
+
+.box-content-6 {
+    width: 70%;
+    vertical-align: middle;
+    display: inline-block;
+    height: auto;
+    max-width: 100%;
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+}
+
+.main-content{
+    padding: 0px 0px 60px 0px;
+    width: 100%;
+    animation-name: "zoomIn";
+    animation-duration: 1.25s;
+    
+}
+
+@media (max-width: 1200px) {
+    .button-position{
+        position:absolute;
+        top: 6%;
+        left: 50%;
+    }
+  }
+
+  .header-button-land{
+    padding-top: 30px;
+  }
+
+
+  .landing-row-code{
+    background-image: url(https://siamcomputing.com/wp-content/uploads/2021/09/Vector-4-4.png);
+    background-position: 0px 0px;
+    background-repeat: no-repeat;
+    background-size: 6% auto;
+  }
+  

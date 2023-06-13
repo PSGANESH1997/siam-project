@@ -1,0 +1,438 @@
+/* 
+.over-all-layout {
+    background-color: #333;
+}
+
+.main-container {
+    background-color: #333;
+    width: 100%;
+    height: 520px;
+}
+
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+.p,
+.a,
+.ul,
+.ol,
+.li {
+    margin: 0;
+    padding: 0;
+}
+
+.main-div-1 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 40px 0px 10px 0px;
+    height: auto;
+    width: auto;
+    color: #fff;
+}
+
+.main-div-2 {
+    padding: 10px;
+}
+
+.row-head--1 {
+    padding: 0px !important;
+}
+
+.footer-logo-siam {
+    padding: 0px 0px 17px 0px !important;
+    width: 281px;
+    height: 95px;
+}
+
+.col-head--2 {
+    padding: 30px 0px 0px;
+}
+
+.col-head--4 {
+    padding: 30px 0px 0px 0px;
+}
+
+.mail-id {
+    width: 281px;
+    height: 50px;
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s, transform var(--e-transform-transition-duration, .4s);
+}
+
+.footer-mail {
+    width: 229.87px;
+    height: 26.67px;
+    font-family: "Prompt";
+    font-style: normal;
+    font-weight: normal;
+    color: #DDDDDD;
+    font-size: 18px;
+    line-height: 130%;
+    text-decoration-line: underline;
+    box-shadow: none;
+    text-decoration: none;
+}
+
+.address {
+    padding:10px 0px 0px 10px;
+    width: 281px;
+    height: 96px;
+    font-family: "Prompt" !important;
+    font-style: normal !important;
+    font-weight: normal !important;
+    color: #DDDDDD !important;
+    line-height: 24px !important;
+}
+
+
+.col-head--1{
+    padding: 10px 0px 0px 20px !important;
+}
+
+.col-head--1,
+.col-head--2,
+.col-head--3,
+.col-head--4 {
+    position: relative;
+    width: 100%;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    display: flex;
+    padding: 30px 0px 0px 30px;
+    flex: 0 0 auto;
+    width: 25%;
+    height: 281px;
+}
+
+.col-head--3 {
+    padding: 30px 0px 0px 60px;
+}
+
+.content--service {
+    width: 301px;
+    height: 28px;
+}
+
+
+
+.col-service {
+    color: #FFFFFF;
+    font-family: "Prompt";
+    font-size: 14px;
+    font-weight: 600;
+    font-style: normal;
+    line-height: 28px;
+}
+
+.span--content-1 {
+    color: #DDDDDD;
+    transition: color 0.3s;
+    font-family: "Prompt";
+    font-size: 14px;
+    font-weight: normal;
+    width: auto;
+    height: 40px;
+    text-decoration: none !important;
+}
+
+.col-product {
+    vertical-align: middle;
+    width: 301px;
+    height: 40px;
+    padding-top: 20px;
+}
+
+.content--about {
+    width: 241px;
+    height: 28px;
+}
+
+.col-about {
+    color: #FFFFFF;
+    font-family: "Prompt";
+    font-size: 14px;
+    font-weight: 600;
+    font-style: normal;
+    line-height: 28px;
+}
+
+.col-journey,
+.col-life,
+.col-careers {
+    vertical-align: middle;
+    width: 241px;
+    height: 40px;
+    padding-top: 20px;
+}
+
+.content--resources {
+    width: 200px;
+    height: 28px;
+}
+
+.col--resources {
+    color: #FFFFFF;
+    font-family: "Prompt";
+    font-size: 14px;
+    font-weight: 600;
+    font-style: normal;
+    line-height: 28px;
+}
+
+
+.col-blogs,
+.col-case,
+.col-app,
+.col-prod-dev {
+    padding-top: 20px;
+    width: 200px;
+    height: 40px;
+    font-family: "Prompt";
+    font-size: 14px;
+    font-weight: normal;
+}
+
+
+
+
+.social-media{
+    display: flex;
+    display: inline-block;
+    width: 100%;
+    height: 103px;
+    margin: 0px 0px 0px 8px;
+}
+.social-media-1{
+    margin-bottom: 25px;
+    justify-items: center;
+    padding: 20px;
+}
+
+
+a{ 
+    justify-content: center;
+    width: 18px;
+    height: 18px;
+    background-color: #333333;
+    padding: 8px;
+    display: inline-block;
+    line-height: 1;
+    transition: all .3s;
+    color: #fff !important;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.divider{
+    
+    width: 100%px;
+    height: 0.67px;
+    
+}
+
+.solid{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-top: 1px solid #bbb;
+}
+
+.copyright{
+    margin-top: 15px;
+    padding: 10px;
+    position: relative;
+    width: 100%;
+    height: 30px;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+
+.copyright--1{
+    text-align: center;
+    color: #999;
+    font-family: "Prompt";
+    font-size: 12px;
+    transition: background .3s,border .3s,border-radius .3s,box-shadow .3s,transform var(--e-transform-transition-duration,.4s);
+} */
+
+
+.card-footer-layout-view{
+    width: auto;
+    height: auto;
+    background-color: #333 !;
+    border: none !important;
+}
+
+.main-container {
+    padding: 60px 20px 20px 20px;
+    background-color: #333;
+    border: none !important;
+}
+
+
+.card-footer-layout{
+    border: none !important;
+    background-color: #333 !important;
+    color: #fff !important;
+}
+
+.card-body-layout{ 
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.siam--img--logo{
+  width: 137px !important;
+  height: 78px !important;
+}
+
+.footer-mail{
+    margin-top: 50px !important;
+    width: 229.87px;
+    height: 26.67px;
+    font-family: "Prompt";
+    font-style: normal;
+    font-weight: normal;
+    color: #DDDDDD;
+    font-size: 18px;
+    line-height: 130%;
+    text-decoration: none;
+    box-shadow: none;
+}
+
+.footer-mail:hover{
+    background-color: transparent;
+    color: #c36 ;
+}
+
+.address {
+    margin-top: 25px;
+    font-family: "Prompt" !important;
+    font-style: normal !important;
+    font-weight: normal !important;
+    color: #DDDDDD !important;
+}
+
+
+.a{      
+        align-items: center;
+        justify-content: center;
+        width: 18px;
+        height: 18px; 
+        background-color: #333333;
+        /* padding: 8px; */
+        display: inline-block;
+        line-height: 1;
+        transition: all .3s;
+        color: #fff !important;
+        /* font-size: 20px; */
+        text-align: center;
+        text-decoration: none !important;
+        /* margin-top: 5px; */
+}
+
+.p-tag-bottom{
+    margin-bottom: 20px;
+}
+
+.col-service{
+    margin-top: 10px;
+    color: #FFFFFF;
+    font-family: "Prompt";
+    font-size: 14px;
+    font-weight: 600;
+    font-style: normal;
+    line-height: 28px;
+}
+
+.span--content-1 {
+    color: #DDDDDD;
+    transition: color 0.3s;
+    font-family: "Prompt";
+    font-size: 16px;
+    font-weight: normal;
+    width: auto;
+    height: 50px;
+    text-decoration: none !important;
+}
+
+.col-service {
+    color: #FFFFFF;
+    font-family: "Prompt";
+    font-size: 16px;
+    font-weight: 600;
+    font-style: normal;
+    line-height: 28px;
+}
+
+.social-media{
+    display: flex;
+    display: inline-block;
+    width: 100%;
+    height: 50px;
+    margin: 0px 0px 0px 8px;
+}
+
+.social-media-1{
+    /* margin-bottom: 25px; */
+    justify-items: center;
+    padding: 15px;
+    align-items: center;
+        justify-content: center;
+        /* width: 18px;
+        height: 18px; */
+        background-color: #333333;
+        /* padding: 8px; */
+        display: inline-block;
+        /* line-height: 1; */
+        transition: all .3s;
+        color: #fff !important;
+        /* font-size: 20px; */
+        text-align: center;
+        text-decoration: none !important;
+        /* margin-top: 5px; */
+}
+
+.group-card{
+    padding: 50px 30px 20px 30px;
+    width: 100%;
+    background-color: #333;
+}
+
+.divider{
+    
+    width: 100%px;
+    height: 0.67px;
+    
+}
+
+.solid{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-top: 1px solid #bbb;
+}
+
+.copyright{
+    margin-top: 15px;
+    padding: 10px;
+    position: relative;
+    width: 100%;
+    height: 30px;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+
+.copyright--1{
+    text-align: center;
+    color: #999;
+    font-family: "Prompt";
+    font-size: 12px;
+    transition: background .3s,border .3s,border-radius .3s,box-shadow .3s,transform var(--e-transform-transition-duration,.4s);
+}
+
+.margin-footer-icon{
+    /* margin-left: 30px; */
+}
+

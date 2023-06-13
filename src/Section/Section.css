@@ -1,0 +1,184 @@
+/* WHY US */
+
+/* .total-section {
+    width: 100%;
+    height: 777.08px;
+    position: relative;
+    background-color: #fff;
+}
+
+.why-content--1 {
+    padding: 80px 0px 0px 0px;
+    position: relative;
+    width: 100%;
+    height: 157px;
+    background-color: #fff;
+}
+
+.why-content-2 {
+    width: 100%;
+    height: 77px;
+    text-align: center;
+    align-items: center;
+}
+
+.why-content-header {
+    transition: background .3s,border .3s,border-radius .3s,box-shadow .3s,transform var(--e-transform-transition-duration,.4s);
+    padding: 0px 9px 25px 9px;
+    background-image: url(https://siamcomputing.com/wp-content/uploads/2021/09/Group-62-1-1.png) !important;
+    background-position: 50% 94%;
+    background-repeat: no-repeat;
+    color: #333333;
+    font-family: "Prompt";
+    font-size: 40px;
+    font-weight: 800;
+    font-style: normal;
+    line-height: 52px;
+    width: 100%;
+} */
+
+/* WHY FIRST */
+
+
+/* .why-first--1{
+    padding: 80px 0px 30px 0px;
+    width: 100%;
+    height:600px;
+}
+.col--card--first:hover{
+    background-color: rgb(255, 250, 247) !important;
+}
+
+.col--card--first{
+    align-content: flex-start;
+    align-items: flex-start;
+    padding: 50px 0px 50px 0px;
+    display: flex;
+    position: relative;
+    width: 100%;
+    height: 489.87px;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+
+.col-card-content-1{
+    width: 100%;
+    height:100px
+}
+
+.col-card-content-2{
+    width: 100%;
+    height:62px;
+    padding: 20px 0px 10px 0px;
+    transition: background .3s,border .3s,border-radius .3s,box-shadow .3s,transform var(--e-transform-transition-duration,.4s);
+}
+
+.header-image-icon{
+    width: 80px;
+    height: 80px;
+}
+
+.col-card-content-3{
+    width: 100%;
+    height: 168px;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 40px 0px 40px;
+    transition: background .3s,border .3s,border-radius .3s,box-shadow .3s,transform var(--e-transform-transition-duration,.4s);
+}
+
+.center-title{
+    text-align: center;
+    font-family: "Prompt";
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 32px;
+    padding-top: 10px !important;
+    margin-top: 5px;
+}
+
+.col-card-paragh{
+    color: #333;
+    font-family: "Prompt";
+    font-size: 16px;
+    height: 168px;
+    text-align: center;
+    margin: 0;
+    padding-top: 30px;
+    margin-top: 0;
+    margin-bottom: 0.9rem;
+}
+
+.fa-icon-size{
+    padding-left: 95px;
+    padding-bottom: 50px;
+    margin-bottom: 30px;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 95px;
+    height: 95px;
+    display: inline-block;
+    line-height: 0;
+    transition: all .3s;
+    color: #333 !important;
+    font-size: 120px;
+    text-align: center;
+} */
+
+.cardgroup-layout{
+    padding: 50px 30px;
+}
+
+
+.card-item-align-why{
+    padding: 50px 30px;
+    text-align: center;
+    align-items: center;
+    border: none !important;
+    background-image: url(https://siamcomputing.com/wp-content/uploads/2021/09/Group-62-1-1.png) !important;
+    background-position: 50% 70% !important;
+    background-repeat: no-repeat !important;
+}
+
+.card-item-align{
+    border: none !important;
+    text-align: center;
+    align-items: center;
+}
+
+.card-item-align:hover{
+    background-color: rgb(253, 245, 241);
+}
+
+.card-img-icon-pgn{
+    width: 97px !important;
+    height: 97px !important;
+}
+
+.card-title-name-style{
+    color: #333333;
+    font-family: "Prompt";
+    font-size: 40px;
+    font-weight: 800;
+    font-style: normal;
+    line-height: 52px;
+}
+
+.content--card--title{
+    padding: 15px;
+    font-family: "Prompt";
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 32px;
+}
+
+.p-tag-style{
+color :rgb(68, 68, 68);
+font-family: "Prompt";
+font-size: 14px;
+font-style: normal;
+font-weight: 400px;
+padding: 20px;
+}
+
+
